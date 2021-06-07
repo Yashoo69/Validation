@@ -1,0 +1,19 @@
+body {
+    background-color: #c2b05c;
+}
+
+main {
+    padding: 5%;
+    background-color: #c2b05c;
+}
+
+img {
+    margin-right: 15px;
+}
+
+div > div {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: larger;
+    padding-bottom: 20px;
+}
